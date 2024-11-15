@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.urlConteiner{
+    width: 96px;
+    height: 18px;
+    margin-top: 75px;
+    margin-left: 998px;
+    gap: 0px;
+    opacity: 0px;
+
+}
